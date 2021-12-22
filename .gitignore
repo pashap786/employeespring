@@ -1,0 +1,8 @@
+/target/
+*.class
+*.war
+*.classpath
+/target/
+*.project
+/.mvn/
+/.settings/
